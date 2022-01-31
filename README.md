@@ -1,2 +1,2 @@
 # DarkModes
-:space_invaders: [FrontPages] - The Switchers
+:space_invader: [FrontPages] - The Switchers
